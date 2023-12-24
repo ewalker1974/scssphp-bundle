@@ -1,5 +1,5 @@
 {
-    "name": "armin/scssphp-bundle",
+    "name": "ewalker1974/scssphp-bundle",
     "version": "2.0.0-dev",
     "type": "symfony-bundle",
     "description": "Symfony bundle to parse scss sources at runtime.",
